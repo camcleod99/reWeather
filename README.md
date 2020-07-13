@@ -28,8 +28,10 @@
   REACT_APP_DS_KEY=[your key here]
 
 ## To run the webapp localy
-  In cli of choice enter;
-  NPM start
+  Buld the webapp;
+  $ npm run-script build
+  Then start the webapp;
+  $ NPM start
 
   Your browser should automatically open to localhost:3000 and run the app.
 
@@ -37,8 +39,4 @@
   The live version is hosted at the following address : (https://pedantic-fermi-a9802e.netlify.com/)
 
 ## Future Revisions
-  The following is the aim for the next version;
-
-### Zip Code Search 
-  Inputs a Zip / Postcode into a search bar and then finds the co-ords in Lat, 
-  Long format and thus prints the forecast.
+  None Planned
