@@ -29,8 +29,11 @@
 
 ## To run the webapp localy
   Buld the webapp;
+  
   $ npm run-script build
+  
   Then start the webapp;
+  
   $ NPM start
 
   Your browser should automatically open to localhost:3000 and run the app.
