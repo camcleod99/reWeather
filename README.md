@@ -19,8 +19,8 @@
   NPM  6.14.5
   
   API Keys :
-  Google Maps Platform  - GeoCodeing API          (https://developers.google.com/maps/documentation/geocoding/intro)
-  Opean Weather         - 5 day / 3 hour Forecast (https://openweathermap.org/api)
+  - Google Maps Platform  - GeoCodeing API          (https://developers.google.com/maps/documentation/geocoding/intro)
+  - Opean Weather         - 5 day / 3 hour Forecast (https://openweathermap.org/api)
 
   Create .env.local in the root folder
   In .env.local add the following two lines
